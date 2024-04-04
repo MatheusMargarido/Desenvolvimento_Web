@@ -1,0 +1,37 @@
+[
+    {
+        "id": 0,
+        "titulo": "Selecione",
+        "descricao": "",
+        "disable": true,
+        "selected": true
+    },
+    {
+        "id": 1,
+        "titulo": "O que é JavaScript",
+        "descricao": "JavaScript é uma linguagem de programação usada por desenvolvedores para fazer páginas interativas da Internet. As funções de JavaScript podem melhorar a experiência do usuário durante a navegação em um site, como, por exemplo, desde a atualização do feed na página da mídia social até a exibição de animações e mapas interativos.",
+        "disable": false,
+        "selected": false
+    },
+    {
+        "id": 2,
+        "titulo": "O que são os frameworks de JavaScript?",
+        "descricao": "Frameworks de JavaScript são coleções de trechos prontos de código que realizam diferentes funções e podem ser reutilizados. No entanto, enquanto as bibliotecas de JavaScript são uma ferramenta especializada para uso sob demanda, os frameworks são um conjunto completo de ferramentas que ajuda a moldar e organizar qualquer aplicativo Web.",
+        "disable": false,
+        "selected": false
+    },
+    {
+        "id": 3,
+        "titulo": "Funções em JavaScript",
+        "descricao": "Em JavaScript, uma função é um bloco de código projetado para realizar uma tarefa específica ou calcular um valor. Funções são uma das principais características da linguagem e são utilizadas para organizar o código, torná-lo mais reutilizável e modular.",
+        "disable": false,
+        "selected": false
+    },
+    {
+        "id": 4,
+        "titulo": "DOM",
+        "descricao": "O DOM (Document Object Model) em JavaScript é uma interface de programação que representa estruturalmente um documento HTML ou XML como uma árvore de objetos. O DOM permite que os scripts acessem e manipulem dinamicamente o conteúdo, estrutura e estilo de um documento web.",
+        "disable": false,
+        "selected": false
+    }
+]
